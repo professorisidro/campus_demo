@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>io.isiflix.isiroku</groupId>
-	<artifactId>campus_demo</artifactId>
+	<artifactId>campusdemo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>campus_demo</name>
 	<description>Demo project for Spring Boot</description>
